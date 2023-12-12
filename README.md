@@ -1,7 +1,7 @@
 # multi-versel_battle
 
 this uses [CloudLink](https://github.com/MikeDev101/cloudlink)<br>
-![CloudLink Logo](CloudLink.svg)
+![CloudLink Logo](assets/images/CloudLink.svg)
 
 ## Versions
 |Version name|description|Version Number|version status|
