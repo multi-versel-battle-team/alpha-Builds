@@ -8,4 +8,8 @@ this uses [CloudLink](https://github.com/MikeDev101/cloudlink)<br>
 |-|-|-|-|
 |alpha 1|the first public build|0.0.1|🟢Public|
 
-wd
+## The Team
+|Coders|artists|sound/music design|Beta testers|Map creators|
+|-|-|-|-|-|
+|Colin1248(head coder)|Minipupetz(head artist)||Colin1248|Colin1248|
+||Colin1248||||
