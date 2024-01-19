@@ -11,5 +11,5 @@ this uses [CloudLink](https://github.com/MikeDev101/cloudlink)<br>
 ## The Team
 |Coders|artists|sound/music design|Beta testers|Map creators|
 |-|-|-|-|-|
-|Colin1248(head coder)|Minipupetz(head artist)|EMPTY|Colin1248|Colin1248|
-||Colin1248||||
+|Colin1248(head coder)|Minipupetz(head artist)|EMPTY|SpudTheSpudd(head tester)|Colin1248|
+||Colin1248||Colin1248||
