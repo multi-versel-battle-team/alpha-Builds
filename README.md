@@ -7,5 +7,9 @@ uses to save and load user made projects
 
 ## how to open the ``.pmp`` files
 
-Colin1248 here I dont what to explain how so here is just a video:
-![Penguinmod.com](https://penguinmod.com/)
+first you will have to download the file<br>
+next you will need to go to [Penguinmod.com](https://penguinmod.com/)<br>
+and after that click "Create"<br>
+next click "file" then "load from computer"<br>
+then open the file into [Penguinmod.com](https://penguinmod.com/) and allow all the popups that show up<br>
+and now your done
