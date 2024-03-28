@@ -2,9 +2,10 @@
 
 ## what are ``.pmp`` files
 
-to put it simply a ``.pmp`` file is a file that [Penguinmod.com](https://penguinmod.com/) uses to save user made projects
+to put it simply a ``.pmp`` file is a file that [Penguinmod.com](https://penguinmod.com/)<br>
+uses to save and load user made projects
 
 ## how to open the ``.pmp`` files
 
-to open ``.pmp`` files click on the link in the versions respective ``README.md``<br>
-file then you will be broght to [Penguinmod.com](https://penguinmod.com/) with the file all ready loaded
+Colin1248 here I dont what to explain how so here is just a video:
+![Penguinmod.com](https://penguinmod.com/)
