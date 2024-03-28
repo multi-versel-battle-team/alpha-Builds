@@ -1,5 +1,8 @@
 # multi versel battle alpha Builds
 
+## what are ``.pmp`` files
+
+to put it simply a ``.pmp`` file is a file that [Penguinmod.com](https://penguinmod.com/) uses to save user made projects
 
 ## how to open the ``.pmp`` files
 
