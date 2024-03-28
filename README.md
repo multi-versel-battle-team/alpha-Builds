@@ -1,4 +1,7 @@
 # multi versel battle alpha Builds
 
-this uses [CloudLink](https://github.com/MikeDev101/cloudlink)<br>
-![CloudLink logo](https://github.com/multi-versel-battle-team/alpha-Builds/blob/main/assets/images/CloudLink.svg)
+
+## how to open the ``.pmp`` files
+
+to open ``.pmp`` files click on the link in the versions respective ``README.md``<br>
+file then you will be broght to [Penguinmod.com](https://penguinmod.com/) with the file all ready loaded
