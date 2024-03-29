@@ -1,4 +1,4 @@
-# multi versel battle alpha Builds
+# multiversal battle alpha Builds
 
 ## what are ``.pmp`` files
 
