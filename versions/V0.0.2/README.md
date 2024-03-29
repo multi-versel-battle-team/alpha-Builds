@@ -1,6 +1,6 @@
 # alpha V0.0.2
 
-if you find a bug please report it here [Report Bugs Here](https://github.com/orgs/multi-versel-battle-team/discussions/new?category=bugs)
+if you find a bug please report it here [\(Report Bugs Here\)](https://github.com/orgs/multi-versel-battle-team/discussions/new?category=bugs)
 
 ## Note
 
