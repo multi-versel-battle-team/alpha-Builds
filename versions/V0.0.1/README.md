@@ -1,6 +1,6 @@
 # Alpha V0.0.1
 
-This version is the First public version if you find a bug pleas report it as a 'Issue' with the tag 'Bug'
+This version is the First public version if you find a bug please report it here [Report Bugs Here](https://github.com/orgs/multi-versel-battle-team/discussions/new?category=bugs)
 
 ## Note
 
